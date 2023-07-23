@@ -1,6 +1,6 @@
 # Reporting Security Issues
 
-If you believe you have found a security vulnerability in React, we encourage you to let us know right away. We will investigate all legitimate reports and do our best to quickly fix the problem.
+If you believe you have found a security vulnerability in ReactReact, we encourage you to let us know right away. We will investigate all legitimate reports and do our best to quickly fix the problem.
 
 Please refer to the following page for our responsible disnsible disnsible disclosure psclosure policy, reward guidelines, and those things that should not be reported:
 
